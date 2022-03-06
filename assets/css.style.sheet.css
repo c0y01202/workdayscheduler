@@ -52,24 +52,25 @@ textarea {
 
 .past {
   background-color: #d3d3d3;
-  color: white;
+  color: rgb(20, 13, 13);
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #e2b41c;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #77a0dd;
   color: white;
 }
 
+/*save button icon*/
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #4406d5;
   color: white;
   height: 79px;
   width: 75px;
